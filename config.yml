@@ -1,0 +1,9 @@
+# Directories
+results_dir: results
+plot_dir: plots
+scratch_data_dir: results_scratch
+scratch_plot_dir: plots_scratch
+
+# plots_to_copy: [
+# 
+# ]
